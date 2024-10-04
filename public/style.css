@@ -1,0 +1,22 @@
+/* General body styles */
+#index-body {
+    background-color: grey;
+    color: white; /* Change text color for contrast */
+    font-family: Arial, sans-serif; /* Add a font for better readability */
+    padding: 20px;
+}
+
+/* Styles for the avocado toast section */
+#avo-toast {
+    color: bisque;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background for contrast */
+    padding: 20px; /* Add some padding for spacing */
+    border-radius: 10px; /* Rounded corners */
+}
+
+/* Image styling */
+.recipe-image {
+    max-width: 100%; /* Make the image responsive */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 10px; /* Add rounded corners to the image */
+}
